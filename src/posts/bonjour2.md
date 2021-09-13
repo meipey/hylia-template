@@ -6,3 +6,4 @@ tags:
 image: "/images/demo-image-2.jpg"
 
 ---
+Dit is een tekst
