@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "test-internal link",
+      "url": "/test-link",
+      "external": ""
+    },
+    {
       "text": "Test-Google",
       "url": "https://www.google.com",
       "external": ""
