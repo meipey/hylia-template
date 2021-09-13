@@ -1,4 +1,16 @@
 ---
 label: Eigen-template-FrontMatter
 hide_body: false
-fields: []
+fields:
+- name: tekst
+  type: text
+  config:
+    required: false
+  label: tekst
+  default: Test Lorem ipsum consequat
+- name: kleurpicker
+  type: color
+  label: kleurPicker
+  config:
+    required: false
+    color_format: Hex
