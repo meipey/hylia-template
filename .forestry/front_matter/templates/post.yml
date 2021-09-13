@@ -20,5 +20,14 @@ fields:
   config:
     maxSize: 64
   label: image
+- name: kalender
+  type: datetime
+  label: kalender
+  description: Dit is een kalender, kies uw datum !
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 pages:
 - src/posts/bonjour2.md
