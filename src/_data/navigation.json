@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Test-Google",
+      "url": "https://www.google.com",
+      "external": ""
+    },
+    {
       "text": "Accueil",
       "url": "/",
       "external": false
