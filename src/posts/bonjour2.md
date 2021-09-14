@@ -4,6 +4,7 @@ title: BONJOUR2!!!!!
 tags:
 - Amsterdam
 image: "/images/demo-image-2.jpg"
+kalender: 
 
 ---
-Dit is een tekst
+[Dit is een tekst](www.google.com)
