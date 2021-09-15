@@ -15,4 +15,5 @@ fields:
     required: false
     color_format: Hex
 pages:
+- 2e.md
 - RodeFile.md
